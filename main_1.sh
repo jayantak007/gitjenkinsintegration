@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "File named main.sh"
+echo "Inside File named main.sh"
